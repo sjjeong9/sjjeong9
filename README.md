@@ -26,4 +26,4 @@ focusing on **stability, clarity, and long-term improvements**.
 
 ## 📘 Blog
 I write posts about what I learn while working:  
-👉 [https://your-blog-url.com](https://your-blog-url.com)
+👉 [https://nullpost.tistory.com/](https://nullpost.tistory.com/)
