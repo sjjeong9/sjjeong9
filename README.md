@@ -23,7 +23,3 @@ focusing on **stability, clarity, and long-term improvements**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## 📘 Blog
-I write posts about what I learn while working:  
-👉 [https://nullpost.tistory.com/](https://nullpost.tistory.com/)
